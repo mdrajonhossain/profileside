@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        My Profile side ssss
+        My Profile side rajon
       </main>
 
      
